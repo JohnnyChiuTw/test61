@@ -19,11 +19,11 @@
     "targetFrameRate" : 30
   },
   "loading": {
-    "create": true,
+    "create": false,
     "loadingMessage": "Loading, please wait...1"
   },
   "stats": {
-    "createHtml": true
+    "createHtml": false
   },
   "renderer": {
     "type": "three",
