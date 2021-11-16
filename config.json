@@ -19,11 +19,15 @@
     "targetFrameRate" : 30
   },
   "loading": {
-    "create": false,
-    "loadingMessage": "Loading, please wait...1"
+    "create": true,
+    "logo": {
+      "src": "",
+      "alt": "arNFT.js logo"
+    },
+    "loadingMessage": "Loading, please wait..."
   },
   "stats": {
-    "createHtml": false
+    "createHtml": true
   },
   "renderer": {
     "type": "three",
